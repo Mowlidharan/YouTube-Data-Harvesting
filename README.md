@@ -17,7 +17,7 @@ To install and set up this project efficiently, follow these steps:
   - Clone this repository to your local machine using the following command:
   
   ```
-  # Clone this repository
+  Clone this repository
   git clone https://github.com/Mowlidharan/YouTube-Data-Harvesting
   ```
 3.**Creating a Virtual Environment:**
@@ -47,7 +47,7 @@ pip install -r requirements.txt
 
  - Execute the main Python file to run the Streamlit application:
 ```
-python youtube_data.py
+python youdata.py
 ```
 
 ## Feedback
